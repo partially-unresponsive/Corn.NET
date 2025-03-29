@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corn.Net.Tests", "Corn.Net.Tests\Corn.Net.Tests.csproj", "{F13F23FB-4F6C-4A13-8ACF-B63327746F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corn.Net.Debug", "Corn.Net.Debug\Corn.Net.Debug.csproj", "{2A96A9BA-B9F6-433A-B3CA-E92E901FDFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corn.Net", "Corn.Net\Corn.Net.csproj", "{04A7A145-CA87-4671-B17A-85E2D5D9F100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13F23FB-4F6C-4A13-8ACF-B63327746F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13F23FB-4F6C-4A13-8ACF-B63327746F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13F23FB-4F6C-4A13-8ACF-B63327746F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13F23FB-4F6C-4A13-8ACF-B63327746F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A96A9BA-B9F6-433A-B3CA-E92E901FDFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A96A9BA-B9F6-433A-B3CA-E92E901FDFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A96A9BA-B9F6-433A-B3CA-E92E901FDFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A96A9BA-B9F6-433A-B3CA-E92E901FDFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A7A145-CA87-4671-B17A-85E2D5D9F100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A7A145-CA87-4671-B17A-85E2D5D9F100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A7A145-CA87-4671-B17A-85E2D5D9F100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A7A145-CA87-4671-B17A-85E2D5D9F100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
